@@ -25,7 +25,7 @@ SECRET_KEY = 'k(nlku_ar#+_x0lfvn_hg)(y=8($t)ffa+g3x=&rz9&k#am*9#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['elifdila.anywhere.com']
+ALLOWED_HOSTS = ['elifdila.pythonanywhere.com']
 
 
 # Application definition
